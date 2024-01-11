@@ -1,0 +1,4 @@
+github.com/wenzhenxi/gorsa v0.0.0-20230530123828-0320cce15d81 h1:mCWpbHxvTg/p9wIKzyR34b65g9p142HFpp6YtsyXTDw=
+github.com/wenzhenxi/gorsa v0.0.0-20230530123828-0320cce15d81/go.mod h1:nfhBTKji6rC8lrjyikx8NJ85JHg6ZQam0a9Je+2RVOg=
+github.com/yuin/gopher-lua v1.1.1 h1:kYKnWBjvbNP4XLT3+bPEwAXJx262OhaHDWDVOPjL46M=
+github.com/yuin/gopher-lua v1.1.1/go.mod h1:GBR0iDaNXjAgGg9zfCvksxSRnQx76gclCIb7kdAd1Pw=
